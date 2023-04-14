@@ -12,6 +12,7 @@ import Resources.Base;
 public class FourTest extends Base {
 
 	public WebDriver driver;
+	System.out.println("using test ng test ");
 	@Test
 	public void title4() throws IOException {
 		
